@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    box-sizing: border-box;
+    margin: 0 auto;
+
+}
+main {
+    background: #0f0f0fc7;
+    margin:100px 200px;
+    border-radius: 10px;
+}
+.capturing-moment-sec{
+    padding: 50px;
+    margin: 20px;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    font-size: 30px;
+}
+.headerbtn {
+padding: 10px;
+border-radius: 50px;
+color: whie;
+background: rgb(118, 60, 212);
+}

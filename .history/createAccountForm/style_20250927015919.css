@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+    box-sizing: border-box;
+    margin:auto;
+    /* height: 100vh; */
+
+}
+main {
+    background: #0f0f0fc7;
+    margin:100px 200px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: 75vh;
+}
+.capturing-moment-sec{
+    padding: 20px;
+    margin: 90px 20px;
+    max-width: 50%;
+    background-color: rgb(126, 78, 215);
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    font-size: 30px;
+}
+.headerbtn {
+border-radius: 50px;
+max-width: 25%;
+color: white;
+background: rgba(140, 84, 231, 0.902);
+}
