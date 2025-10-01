@@ -1,0 +1,15 @@
+.marq-sect{
+    background-color: #5E00A6;
+    height:7vh;
+    width: 100%;
+
+}
+
+.marque {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+.marque > span {
+    text-transform: capitalize;
+}

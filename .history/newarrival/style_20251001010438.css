@@ -1,0 +1,9 @@
+.marq-sect{
+    aic 
+}
+
+.marque {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}

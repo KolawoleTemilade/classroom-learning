@@ -1,0 +1,14 @@
+.marq-sect{
+    background: #5E00A6;
+    he
+
+}
+
+.marque {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+.marque > span {
+    text-transform: capitalize;
+}
