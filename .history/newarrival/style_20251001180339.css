@@ -1,0 +1,47 @@
+.marq-sect{
+    background-color: #5E00A6;
+    height:6vh;
+    width: 100%;
+    align-content: center;
+}
+.marque {
+    display: flex;
+    align-content: center;
+    justify-content:space-around ;
+}
+.marque > span {
+    text-transform: capitalize;
+    color: white; 
+}
+.new-arrival-sect {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.new-arrival-sect >h4{
+    font-size: 4rem;
+}
+.new-arrival-sect > h2 {
+    font-size: 6rem;
+}
+.new-arrival-sect > h2 {
+    color: #5E00A6;
+}
+.product-card {
+    display: flex;
+    padding: 10px;
+    background: white;
+}
+.img-sect {
+    position: relative;
+}
+.slash {
+    position: absolute;
+    top: left;
+    background: palevioletred;
+    padding: 10px;
+    width: 5%;
+    height: 5vh;
+    border: 1px solid transparent;
+    border-radius: 70%;
+}

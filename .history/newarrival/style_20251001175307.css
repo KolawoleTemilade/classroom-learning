@@ -1,0 +1,21 @@
+.marq-sect{
+    background-color: #5E00A6;
+    height:6vh;
+    width: 100%;
+    align-content: center;
+}
+.marque {
+    display: flex;
+    align-content: center;
+    justify-content:space-around ;
+}
+.marque > span {
+    text-transform: capitalize;
+    color: white; 
+}
+.new-arrival-sect {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.new-arrival-sect > h2
